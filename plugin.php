@@ -15,7 +15,7 @@ class pluginPrism extends Plugin {
 
 	public function siteHead(){
 
-		$html  = '<link href="'.HTML_PATH_PLUGINS.'prism/prism.css" rel="stylesheet">';
+		$html  = '<link href="'.HTML_PATH_PLUGINS.'prism/css/prism.css" rel="stylesheet">';
 		return $html;
 
     }
@@ -23,7 +23,7 @@ class pluginPrism extends Plugin {
  	public function siteBodyEnd()
  	{
 
- 		$html  = PHP_EOL.'<script src="'.HTML_PATH_PLUGINS.'prism/prism.js"></script>'.PHP_EOL;
+ 		$html  = PHP_EOL.'<script src="'.HTML_PATH_PLUGINS.'prism/js/prism.js"></script>'.PHP_EOL;
  		return $html;
 	}
 
