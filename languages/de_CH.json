@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Prism",
+		"description": "Prism ergänzt Themes mit dem notwendigen CSS, um Code auszuzeichnen, wenn der Editor TinyMCE mit dem Plugin Codesample verwendet wird."
+	}
+}
