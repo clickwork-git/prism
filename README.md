@@ -5,7 +5,7 @@ Prism adds the necessary CSS to themes to highlight code if the editor TinyMCE u
 
 The plugin uses JavaScript and CSS from <a href="https://prismjs.com" target="_blank">Prism</a>.
 
-The following code languages are supported: HTML, XML, JavaScript, CSS, Ruby, Python, Java, C, C#, C++, Markup, XML, SVG, MathML, SSML, Atom, RSS.
+The following code languages are supported: HTML, XML, JavaScript, CSS, Ruby, Python, Java, C, C#, C++, Markup, XML, SVG, MathML, SSML, Atom, RSS, Bash + Shell, Docker, Arduino, Git, Markdown.
 
 Installation
 ------------
